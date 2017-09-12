@@ -9,3 +9,5 @@ then
 else
   echo "$n is odd number"
 fi
+
+echo "Bye $name"
