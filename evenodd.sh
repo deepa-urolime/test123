@@ -1,6 +1,6 @@
 
 #!/bin/bash
-read n
+
 rem=$(( $n % 2 ))
  
 if [ $rem -eq 0 ]
