@@ -1,2 +1,3 @@
 #!/bin/bash
-echo hi 
+echo hi
+echo hello  
