@@ -1,3 +1,4 @@
 #!bin/bash
 echo "testing"
 echo "updating"
+echo "hello"
