@@ -1,4 +1,6 @@
 #!/bin/bash
 echo " this is a test script"
 echo "example2"
+echo "good morning"
+
 
